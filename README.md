@@ -1,2 +1,2 @@
-# notesGallary
+# simple webpage
 webpage
