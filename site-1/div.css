@@ -1,0 +1,11 @@
+.header{
+  width: 700px;
+  height: 200px;
+background-color: #aaa;
+}
+.menu{
+  width: 200px;
+  height: 600px;
+  float: left;
+
+}

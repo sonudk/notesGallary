@@ -1,0 +1,54 @@
+body{
+  background-color: powderblue;
+}
+*{
+  font-family: Arial;
+}
+#LAILA{
+  color:red;
+  font-style: oblique;
+  font-size: 44px;
+
+}
+div{
+   width: 300px;
+   border: 25px solid green;
+   padding: 25px;
+   margin: 25px;
+}
+li{
+  color: red;
+  font-family:  cursive;}
+.raj2{
+  color: red;
+  text-decoration: underline;
+  text-align: right;
+
+}
+.my_first_css{
+  font-family: sans-serif;
+  color: red;
+}
+.babaa{
+color: powderblue;
+font-family: serif;
+font-style: italic;
+font-size: 20px;
+width: 100%;
+background-color: #aaa;
+text-align: center;
+}
+.baba{
+color: powderblue;
+font-family: serif;
+ font-size: 30px;
+
+background-color: inherit;
+
+}
+table{
+  font-family: sans-serif;
+  font-size: 12px;
+  border: 4px;
+  
+}

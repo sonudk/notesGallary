@@ -1,0 +1,30 @@
+.pagerapper{
+  width: 1000px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font: 16px/1.5;
+  font-family: 'Spirax', cursive;
+  background-color: #f1f1c1;
+}
+.header{
+  width: 1000px;
+  height: 200px;
+  border: 2px solid black;
+}
+.logo{
+ position: relative;
+ left: 13px;
+ top: 13px;
+}
+.Sologan{
+  position: relative;
+  left: 800px;
+  top:-120px;
+}
+.searchbox{
+  position: relative;
+  left: 716px; top: -80px;
+  width: 300px;
+  font-family: 'Spirax',cursive;
+}
