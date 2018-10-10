@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>display</title>
+<style>
+.static{border:2px green;
+border-style:groove;
+position:static;
+left:100px;
+right:600px;
+}
+.fixed{border:2px green;
+border-style:groove;
+position:fixed;
+left:100px;
+right:600px;
+}
+.relative{border:2px yellow;
+border-style:groove;
+position:relative;
+left:100px;
+right:234px;
+}.absolute{border:2px red;
+border-style:groove;
+position:absolute;
+left:100px;
+right:400px;
+}.sticky{border:2px brown;
+border-style:groove;
+position:sticky;
+left:100px;
+top:9000px;
+}
+body{
+background-image:url(https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?auto=compress&cs=tinysrgb&h=350);
+z-index:189;
+}
+</style>
+</head>
+<body>
+<div class="static">
+<p>
+This is for static positing of webpages.
+</p>
+</div>
+<div class="fixed">
+<p>
+This is for fixed positing of webpages.
+</p>
+</div>
+<div class="relative">
+
+<p>
+This is for relative positing of webpages.
+</p>
+</div><div class="absolute">
+<p>
+This is for absolute positing of webpages.
+</p>
+</div><div class="sticky">
+<p>
+This is for sticky positing of webpages.
+</p>
+</div>
+</body>
+</html>
